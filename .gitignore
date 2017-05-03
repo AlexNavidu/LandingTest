@@ -1,0 +1,4 @@
+ che__/
+*.sqlite3
+.idea
+/django_project/local_settings.py
